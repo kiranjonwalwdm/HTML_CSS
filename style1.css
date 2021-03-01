@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#myfirstid1{
+	color: red;
+}
+.myfirstid2{
+	color: blue;
+}
+.backImg1{
+	width: 100%;
+	height: 100vh;
+	/*background-color: green;*/
+	background-image: url('spider.jpg');
+	/*background-repeat: no-repeat;*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+.backImg2{
+	width: 100%;
+	height: 100vh;
+	/*background-color: green;*/
+	background-image: url('spider2.jpg');
+	/*background-repeat: no-repeat;*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+.backImg3{
+	width: 100%;
+	height: 100vh;
+	/*background-color: green;*/
+	background-image: url('spider3.jpg');
+	/*background-repeat: no-repeat;*/
+	background-size: 100% 100%;
+	background-attachment: fixed;
+
+}
+
+#fontCss{
+
+font-family: 'Ballet', cursive;
+
+}
+
+.textCSS{
+	font-family: 'Noto Serif KR', sans-Serif;
+	color: red;
+
+}

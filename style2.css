@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+a:link {
+	color:red;
+}
+a:visited {
+	color:green;
+}
+a:hovar {
+	color:yellow
+}
+a:active {
+	color:blue;
+}
